@@ -1,0 +1,11 @@
+CharDict
+init/char_info.utf8
+
+WordDict
+init/word_dict_list.utf8
+
+HMM
+init/hmm_train_model.utf8
+
+TriGram
+init/tri_train_model_big.utf8
