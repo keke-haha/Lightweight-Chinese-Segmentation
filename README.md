@@ -1,7 +1,9 @@
 # Lightweight-Chinese-Segmentation
 轻量级中文分词系统（Lightweight Chinese Segmentation）  
 一枚机器学习刚入门的小白的第一次尝试  
-所有文件全放到source文件夹里了  
+所有文件全放到source文件夹里了    
+***由于Tri-Gram的模型太大没有放到github中，所以这里放个[百度云链接](https://pan.baidu.com/s/1zHnhOm3pUCuqtC1T2J6srA) 密码：63w7***  
+***想使用的可以下载完成后把Tri-Gram模型放到source/init文件夹中或是修改配置文件config.utf8中关于Tri-Gram的模型的地址即可***
 
 
 
@@ -53,7 +55,7 @@
 
   - #### init文件夹
 
-    **存放各种初始化的配置文件**
+    **存放各种初始化的文件**
 
   - #### makefile
 
