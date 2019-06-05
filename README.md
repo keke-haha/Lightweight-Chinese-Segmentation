@@ -1,7 +1,7 @@
 # Lightweight-Chinese-Segmentation
-轻量级中文分词系统（Lightweight Chinese Segmentation）
-一枚机器学习刚入门的小白的第一次尝试
-所有文件全放到source文件夹里了
+轻量级中文分词系统（Lightweight Chinese Segmentation）  
+一枚机器学习刚入门的小白的第一次尝试  
+所有文件全放到source文件夹里了  
 
 
 
